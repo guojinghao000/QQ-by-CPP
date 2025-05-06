@@ -24,3 +24,7 @@
   - [ ] 群聊管理界面(Group_chat_management)
   - [ ] 好友管理界面(Friend_Management)
 
+## 功能文件(不需要界面):
+
+- [ ] 检测账号和密码是否正确
+
